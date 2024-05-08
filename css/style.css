@@ -64,6 +64,7 @@ body {
 	text-decoration: underline red double;
 	font-size: 18px;
 	text-align: right;
+
 }
 
 .main-section2 {
@@ -73,12 +74,12 @@ body {
 	max-width: 960px;
 	width: 100%;
 	margin: 0 auto;
+}
 
-	p {
-		font-size: 16px;
-		line-height: 1.875;
-		margin-bottom: 10px;
-	}
+.main-section2 p {
+	font-size: 16px;
+	line-height: 1.875;
+	margin-bottom: 10px;
 }
 
 .main-section2__title {

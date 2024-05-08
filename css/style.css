@@ -34,10 +34,8 @@ body {
 	box-shadow: 10px 12px 10px rgba(168, 190, 4, 0.882);
 }
 
-.main-text {
-	p {
-		margin-bottom: 10px;
-	}
+.main-text p {
+	margin-bottom: 10px;
 }
 
 .main-text__paragraph1 {
